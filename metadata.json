@@ -1,0 +1,6 @@
+{
+  "name": "DocuTraducteur AI - Traduction Intelligente de Documents",
+  "description": "Plateforme avancée de traduction de documents par IA avec tableau de bord personnalisé, 5 documents gratuits par jour et forfaits en Euro et Franc CFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
